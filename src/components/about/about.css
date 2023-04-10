@@ -1,0 +1,37 @@
+.about-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-hr {
+    width: 100vw;
+    height: 1rem;
+    color: pink;
+    background-color: pink;
+}
+
+.about-content {
+    width: 35rem;
+    background-color: #2E8B57;
+    text-align: center;
+    color: white;
+    margin: 1rem 0;
+    border-radius: 1rem;
+    padding: 2rem;
+    font-size: 1.2rem;
+    transition: 0.5s;
+    box-shadow: 4px 10px 10px #1e4f3378;
+}
+
+.about-content:hover { 
+    padding-left: 5rem;
+    padding-right: 5rem;
+
+}
+
+.about-title {
+    font-size: 1.5rem;
+    color: Pink;
+}

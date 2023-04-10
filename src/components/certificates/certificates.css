@@ -1,0 +1,26 @@
+.certificate-conteiner {
+    background-color: #3CB371;
+    text-align: center;
+    padding: 1rem;
+}
+
+.certificate {
+    width: 28rem;
+    box-shadow: 4px 10px 10px #1e4f3378;
+    transition: 1s;
+}
+
+.certificate:hover {
+    width: 30rem;
+}
+
+.certificate-content {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.certificate-title {
+    color: pink;
+    font-size: 3.5rem;
+}

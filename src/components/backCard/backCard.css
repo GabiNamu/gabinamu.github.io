@@ -1,0 +1,36 @@
+.backCard-container {
+    background-color: #2E8B57;
+    box-shadow: 4px 10px 10px #1e4f3378;
+    padding: 1rem;
+    width: 10rem;
+    /* height: 16rem; */
+    padding-bottom: 1.5rem;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+    transition: 1s;
+}
+
+.backCard-container:hover {
+    background-color: pink;
+} 
+
+.backCard-title {
+    color: white;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.backCard-link {
+    text-decoration: none;
+    color: #2E8B57;
+    background-color: pink;
+    padding: 0.8rem;
+    border-radius: 1rem;
+    transition: 1s;
+    box-shadow: 4px 10px 8px #1e4f3378;
+}
+
+.backCard-link:hover {
+    background-color: #2E8B57;
+    color: pink;
+}

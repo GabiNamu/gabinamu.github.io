@@ -1,0 +1,31 @@
+.banner-container {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    background-color: #3CB371;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.banner-profile {
+    width: 15rem;
+}
+
+.banner-content {
+    text-align: center;
+    color: pink;
+}
+
+.banner-h1 {
+    font-size: 8rem;
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+
+.banner-h2 {
+    font-size: 2rem;
+    margin-top: -10px;
+}

@@ -1,0 +1,42 @@
+.frontcard-image {
+    width: 20rem;
+    height: 11rem;
+    box-shadow: 4px 10px 10px #1e4f3378;
+}
+
+.frontCard-container {
+    background-color: #2E8B57;
+    box-shadow: 4px 10px 10px #1e4f3378;
+    padding: 1rem;
+    height: 16rem;
+    padding-bottom: 1.5rem;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+    transition: 1s;
+}
+
+.frontCard-container:hover {
+    background-color: pink;
+}
+
+.frontCard-title {
+    color: white;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.frontCard-link {
+    text-decoration: none;
+    color: #2E8B57;
+    margin-left: 1rem;
+    background-color: pink;
+    padding: 0.8rem;
+    border-radius: 1rem;
+    transition: 1s;
+    box-shadow: 4px 10px 8px #1e4f3378;
+}
+
+.frontCard-link:hover {
+    background-color: #2E8B57;
+    color: pink;
+}
