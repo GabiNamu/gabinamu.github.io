@@ -1,0 +1,45 @@
+.projects-container {
+    text-align: center;
+    background-color: #3CB371;
+    padding: 1rem;
+    padding-bottom: 2rem;
+}
+
+.projects-content {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.projects-link {
+    font-style: none;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
+.projects-title {
+    color: pink;
+    font-size: 3.5rem;
+}
+
+.projects {
+    background-color:  #2E8B57;
+    font-size: 1.5rem;
+    width: 20rem;
+    height: 5rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+    transition: 1s;
+    box-shadow: 4px 10px 10px #1e4f3378;
+}
+
+.projects:hover { 
+    background-color: pink;
+    padding: 1.5rem;
+}

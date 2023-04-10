@@ -1,0 +1,40 @@
+.contact-container {
+    text-align: center;
+    background-color: #3CB371;
+    padding: 1rem;
+    padding-bottom: 3rem;
+}
+
+.contact-title {
+    color: pink;
+    font-size: 3.5rem;
+}
+
+.contact-content {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-link {
+    display: flex;
+    align-items: center;
+    gap: 0.2rem;
+    font-size: 1.3rem;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    background-color: #2E8B57;
+    width: 15rem;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    transition: 1s;
+    box-shadow: 4px 10px 10px #1e4f3378;
+    margin-left: 1rem;
+}
+
+.contact-link:hover {
+    background-color: pink;
+    padding: 1rem;
+}

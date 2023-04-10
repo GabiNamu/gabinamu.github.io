@@ -1,0 +1,42 @@
+.front-container {
+    background-color: #3CB371;
+    height: 100%;
+    text-align: center;
+}
+
+.front-title {
+    color: pink;
+    font-size: 3.5rem;
+}
+
+.front-link {
+  background-color: #2E8B57;
+  text-decoration: none;
+  color: white;
+  width: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  border-radius: 1rem;
+  transition: 1s;
+  box-shadow: 4px 10px 10px #1e4f3378;
+}
+
+.front-link:hover {
+    background-color: pink;
+    padding: 1.5rem;
+}
+
+.front-link-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.front-content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
