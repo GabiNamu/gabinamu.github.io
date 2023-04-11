@@ -1,6 +1,6 @@
 .header-container {
     width: 100vw;
-    background-color: #2E8B57;
+    background-color: #1f1f38;
     height: 4rem;
     display: flex;
     align-items: center;
@@ -28,4 +28,18 @@
 .header-links-container {
     display: flex;
     gap: 1rem;
+}
+
+@media screen and (max-width: 505px) {
+    .header-logo {
+        width: 3rem;
+    }
+
+    .header-link { 
+        font-size: 0.7rem;
+    }
+
+    .header-links-container {
+        gap: 0.7rem;
+    }
 }

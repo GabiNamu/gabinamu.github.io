@@ -5,7 +5,7 @@
     align-items: center;
     align-content: center;
     justify-content: center;
-    background-color: #3CB371;
+    background-color: #2c2c6c;
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
@@ -28,4 +28,13 @@
 .banner-h2 {
     font-size: 2rem;
     margin-top: -10px;
+}
+
+@media screen and (max-width: 505px){
+	.banner-h1 { 
+        font-size: 4rem;
+    }
+    .banner-h2 { 
+        font-size: 1rem;
+    }
 }

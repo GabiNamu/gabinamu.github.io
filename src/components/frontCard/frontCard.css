@@ -1,12 +1,12 @@
 .frontcard-image {
     width: 20rem;
     height: 11rem;
-    box-shadow: 4px 10px 10px #1e4f3378;
+    box-shadow: 4px 10px 10px #2e2e48e3;
 }
 
 .frontCard-container {
-    background-color: #2E8B57;
-    box-shadow: 4px 10px 10px #1e4f3378;
+    background-color: #2c2c6c;
+    box-shadow: 4px 10px 10px #2e2e48e3;
     padding: 1rem;
     height: 16rem;
     padding-bottom: 1.5rem;
@@ -27,16 +27,16 @@
 
 .frontCard-link {
     text-decoration: none;
-    color: #2E8B57;
+    color: #2c2c6c;
     margin-left: 1rem;
     background-color: pink;
     padding: 0.8rem;
     border-radius: 1rem;
     transition: 1s;
-    box-shadow: 4px 10px 8px #1e4f3378;
+    box-shadow: 4px 10px 8px #2e2e48e3;
 }
 
 .frontCard-link:hover {
-    background-color: #2E8B57;
+    background-color: #2c2c6c;
     color: pink;
 }

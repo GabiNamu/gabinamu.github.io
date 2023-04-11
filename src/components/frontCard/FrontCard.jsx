@@ -6,8 +6,12 @@ const FrontCard = ({image, title, github, demo}) => {
     <div className='frontCard-container'>
       <img src={ image } alt="front-end project" className='frontcard-image' />
       <p className='frontCard-title'>{title}</p>
-      <a href={github} className='frontCard-link'>Github</a>
-      <a href={demo} className='frontCard-link'>Demo</a>
+      <a href={github} 
+      className='frontCard-link' 
+      target="_blank" rel="noopener noreferrer">Github</a>
+      <a href={demo} 
+      className='frontCard-link' 
+      target="_blank" rel="noopener noreferrer">Demo</a>
     </div>
   )
 }
