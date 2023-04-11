@@ -8,6 +8,7 @@
 .projects-content {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 1rem;
 }
 
@@ -16,14 +17,6 @@
     text-decoration: none;
     color: white;
     font-weight: 700;
-}
-
-.projects-title {
-    color: pink;
-    font-size: 3.5rem;
-}
-
-.projects {
     background-color:  #2c2c6c;
     font-size: 1.5rem;
     width: 20rem;
@@ -39,7 +32,20 @@
     box-shadow: 4px 10px 10px #2e2e48e3;
 }
 
-.projects:hover { 
+.projects-title {
+    color: pink;
+    font-size: 3.5rem;
+}
+
+.projects-link:hover { 
     background-color: pink;
     padding: 1.5rem;
+}
+
+@media screen and (max-width: 505px) { 
+        .projects-link {
+          width: 10rem;
+          height: 2rem;
+          font-size: 1rem;
+        }
 }

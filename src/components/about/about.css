@@ -36,3 +36,11 @@
     font-size: 1.5rem;
     color: Pink;
 }
+
+@media screen and (max-width: 505px) { 
+    .about-content:hover { 
+        padding-left: 4rem;
+        padding-right: 4rem;
+    
+    }
+}
