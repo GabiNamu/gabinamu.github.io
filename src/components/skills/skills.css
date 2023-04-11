@@ -13,7 +13,8 @@
 }
 
 .skills-front-end-container {
-    background-color: #2E8B57;
+    /* background-color: #2E8B57; */
+    background-color: #2c2c6c;
     font-size: 1.3rem;
     width: 20rem;
     text-align: center;
@@ -21,7 +22,7 @@
     padding: 1rem;
     border-radius: 1rem;
     transition: 1s;
-    box-shadow: 4px 10px 10px #1e4f3378;
+    box-shadow: 4px 10px 10px #2e2e48e3;
 }
 
 .skills-front-end-container:hover {
@@ -30,7 +31,8 @@
 }
 
 .skills-container {
-    background-color: #3CB371;
+    /* background-color: #3CB371; */
+    background-color: #1f1f38;
     text-align: center;
     padding: 2rem;
 }
@@ -39,6 +41,7 @@
     display: flex;
     /* align-items: center; */
     justify-content: center;
+    flex-wrap: wrap;
     gap: 1rem;
 }
 

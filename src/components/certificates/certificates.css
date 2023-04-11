@@ -1,12 +1,13 @@
 .certificate-conteiner {
-    background-color: #3CB371;
+    /* background-color: #3CB371; */
+    background-color: #1f1f38;
     text-align: center;
     padding: 1rem;
 }
 
 .certificate {
     width: 28rem;
-    box-shadow: 4px 10px 10px #1e4f3378;
+    box-shadow: 4px 10px 10px #2e2e48e3;
     transition: 1s;
 }
 
@@ -17,10 +18,20 @@
 .certificate-content {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 1rem;
 }
 
 .certificate-title {
     color: pink;
     font-size: 3.5rem;
+}
+
+@media screen and (max-width: 505px) {
+    .certificate { 
+        width: 20rem;
+    }
+    .certificate:hover {
+        width: 23rem;
+    }
 }

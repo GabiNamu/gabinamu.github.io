@@ -8,6 +8,7 @@ import SolarSystem from '../../images/solarSystem.png';
 import TrybeWallet from '../../images/wallet.png';
 import Calculator from '../../images/calculator.png';
 import FrontCard from '../../components/frontCard/FrontCard';
+import ShoppingCart from '../../images/store.png';
 import './front.css';
 
 const Front = () => {
@@ -55,6 +56,11 @@ const Front = () => {
       title="Calculator"
       github="https://github.com/GabiNamu/calculator"
       demo="https://gabinamu.github.io/calculator/" />
+      <FrontCard 
+      image={ShoppingCart}
+      title="Shopping Cart"
+      github="https://github.com/GabiNamu/Shopping-Cart"
+      demo="https://gabinamu.github.io/Shopping-Cart/" />
       </div>
     </div>
   )
