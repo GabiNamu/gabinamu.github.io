@@ -1,6 +1,7 @@
 import React from 'react'
 import {FaLinkedin, FaGithub, FaWhatsapp} from 'react-icons/fa';
 import './contact.css';
+import Form from '../form/Form';
 
 const Contact = () => {
   return (
@@ -23,6 +24,7 @@ const Contact = () => {
             <p>Whatsapp</p> 
         </a>
         </div>
+        <Form />
     </div>
   )
 }
