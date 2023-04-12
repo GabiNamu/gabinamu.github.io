@@ -7,12 +7,14 @@ const About = () => {
       {/* <div className='about-hr'/> */}
       <div className='about-content'>
       <h3 className='about-title'>About Me</h3>
-      <p>Sempre quis trabalhar com tecnologia, mas não sabia como. 
-      Depois de entrar na universidade na área de design, me interessei por design 3D e a partir daí aprendi e me apaixonei por programação, 
-      portanto resolvi mudar de área. Atualmente estudo desenvolvimento web na Trybe, 
-      uma escola de programação que ensina soft e hard skill. 
-     Hoje posso dizer que me encontrei em uma área pela qual sou muito apaixonada e acredito que estarei no caminho certo para 
-     fazer com que a tecnologia melhore ainda mais a vida das pessoas.</p>
+      <p>I always wanted to work with technology, but I didn't know how. 
+        After entering the university in the field of design, I became interested 
+        in 3D design and from there I learned and fell in love with programming, 
+        so I decided to change areas. I'm currently studying web development at Trybe, 
+        a programming school that teaches soft and hard skills.
+        Today I can say that I found myself in an area that I am very passionate about and 
+        I believe that I will be on the right track to make technology improve people's lives even more.
+      </p>
   </div>
   {/* <div className='about-hr'/> */}
     </div>
