@@ -4,7 +4,7 @@ import './about.css';
 const About = () => {
   return (
     <div className='about-container' id="about">
-      <div className='about-hr'/>
+      {/* <div className='about-hr'/> */}
       <div className='about-content'>
       <h3 className='about-title'>About Me</h3>
       <p>Sempre quis trabalhar com tecnologia, mas não sabia como. 
@@ -14,7 +14,7 @@ const About = () => {
      Hoje posso dizer que me encontrei em uma área pela qual sou muito apaixonada e acredito que estarei no caminho certo para 
      fazer com que a tecnologia melhore ainda mais a vida das pessoas.</p>
   </div>
-  <div className='about-hr'/>
+  {/* <div className='about-hr'/> */}
     </div>
   )
 }
