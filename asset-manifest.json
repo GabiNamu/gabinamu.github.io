@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b02790e.css",
-    "main.js": "/static/js/main.d1686448.js",
+    "main.css": "/static/css/main.a2f0b7df.css",
+    "main.js": "/static/js/main.3174f202.js",
     "static/js/787.232b402d.chunk.js": "/static/js/787.232b402d.chunk.js",
     "static/media/solarSystem.png": "/static/media/solarSystem.10266e9693d4eeda70a7.png",
     "static/media/starwars.png": "/static/media/starwars.502967986475dd70edf7.png",
@@ -11,17 +11,17 @@
     "static/media/store.png": "/static/media/store.3d5f4739a9dfe28debb8.png",
     "static/media/profile.png": "/static/media/profile.1f7a5dbe1de39702c251.png",
     "static/media/wallet.png": "/static/media/wallet.1f57275fd442f668497a.png",
-    "static/media/fundamentos.png": "/static/media/fundamentos.4ea5e773dfc8a0769efe.png",
-    "static/media/front.png": "/static/media/front.611b47b6e8a30ac2aab8.png",
+    "static/media/front.png": "/static/media/front.9d2afae813313b94c1fd.png",
+    "static/media/fundamentos.png": "/static/media/fundamentos.1e118c1f17bb5694ac04.png",
     "static/media/calculator.png": "/static/media/calculator.3ad0906d763dd02bb657.png",
     "static/media/white-logo.png": "/static/media/white-logo.28155b34883c6cb28a4e.png",
     "index.html": "/index.html",
-    "main.9b02790e.css.map": "/static/css/main.9b02790e.css.map",
-    "main.d1686448.js.map": "/static/js/main.d1686448.js.map",
+    "main.a2f0b7df.css.map": "/static/css/main.a2f0b7df.css.map",
+    "main.3174f202.js.map": "/static/js/main.3174f202.js.map",
     "787.232b402d.chunk.js.map": "/static/js/787.232b402d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b02790e.css",
-    "static/js/main.d1686448.js"
+    "static/css/main.a2f0b7df.css",
+    "static/js/main.3174f202.js"
   ]
 }
