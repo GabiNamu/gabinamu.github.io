@@ -39,7 +39,7 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    background-color: white;
+    /* background-color: white; */
     padding: 1rem;
     gap: 1rem;
 }

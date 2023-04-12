@@ -12,7 +12,7 @@ const Skills = () => {
         <h3 className='skills-title'>Skills</h3>
         <div className='skills-content'>
         <div className='skills-front-end-container'>
-          <h3>Front-end</h3>
+          <h3 className='skills-content-title'>Front-end</h3>
             <ul className='skills-front-end-ul'>
                <li className='skills-li'>
                 <FaHtml5/>
@@ -37,7 +37,7 @@ const Skills = () => {
             </ul>
         </div>
         <div className='skills-front-end-container'>
-          <h3>Back-end</h3>
+          <h3 className='skills-content-title'>Back-end</h3>
             <ul className='skills-front-end-ul'>
                <li className='skills-li'>
                 <FaDocker />
@@ -58,7 +58,7 @@ const Skills = () => {
             </ul>
         </div>
         <div className='skills-front-end-container'>
-          <h3>Tests</h3>
+          <h3 className='skills-content-title'>Tests</h3>
             <ul className='skills-front-end-ul'>
                <li className='skills-li'>
                 <SiJest />
