@@ -25,6 +25,22 @@
     font-size: 1rem;
 }
 
+.frontCard-content {
+    color: white;
+    font-weight: 400;
+    font-size: 0.8rem;
+    margin-top: -14px;
+    /* margin-bottom: -2px; */
+}
+
+.forntCard-links-container {
+    margin-top: 2rem;
+}
+
+.frontCard-content-links {
+    margin-top: 0.8rem;
+}
+
 .frontCard-link {
     text-decoration: none;
     color: #2c2c6c;

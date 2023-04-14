@@ -6,13 +6,13 @@
 }
 
 .certificate {
-    width: 28rem;
+    width: 26rem;
     box-shadow: 4px 10px 10px #2e2e48e3;
     transition: 1s;
 }
 
 .certificate:hover {
-    width: 30rem;
+    width: 28rem;
 }
 
 .certificate-content {
