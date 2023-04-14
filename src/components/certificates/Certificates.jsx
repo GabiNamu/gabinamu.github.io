@@ -2,6 +2,7 @@ import React from 'react';
 import './certificates.css';
 import fundamentos from '../../images/fundamentos.png'
 import front from '../../images/front.png'
+import tests from '../../images/tests.png';
 
 const Certificates = () => {
   return (
@@ -15,6 +16,10 @@ const Certificates = () => {
         <a href="https://www.credential.net/b6e3f0a8-78e6-4987-a4dd-654865bd793b#gs.uk9egj"
         target="_blank" rel="noopener noreferrer">
         <img src={front} alt="certificado de front-end" className='certificate' />
+        </a>
+        <a href="https://www.linkedin.com/learning/certificates/e847fa8160488a0b591727d506d14c97e56684ef00144db448ff2f14d1c3eac6"
+        target="_blank" rel="noopener noreferrer">
+        <img src={tests} alt="Linkedin Certificate" className='certificate'/>
         </a>
         </div>
     </div>

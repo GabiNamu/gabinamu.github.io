@@ -7,6 +7,7 @@ import StarWars from '../../images/starwars.png';
 import SolarSystem from '../../images/solarSystem.png';
 import TrybeWallet from '../../images/wallet.png';
 import Calculator from '../../images/calculator.png';
+import RecipesAPP from '../../images/recipes.png';
 import FrontCard from '../../components/frontCard/FrontCard';
 import ShoppingCart from '../../images/store.png';
 import './front.css';
@@ -21,6 +22,12 @@ const Front = () => {
 
       <h1 className='front-title'>Front-end Projects:</h1>
       <div className='front-content'>
+      <FrontCard 
+      image={RecipesAPP}
+      title="Recipes APP"
+      content="The layout focuses on mobile devices"
+      github="https://github.com/GabiNamu/recipes-app"
+      demo="https://gabinamu.github.io/recipes-app" />
       <FrontCard 
       image={TrybeTunes}
       title="TrybeTunes"
