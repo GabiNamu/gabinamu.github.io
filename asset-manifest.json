@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0a31c00b.css",
-    "main.js": "/static/js/main.6ee7a26e.js",
+    "main.js": "/static/js/main.19b96576.js",
     "static/js/787.232b402d.chunk.js": "/static/js/787.232b402d.chunk.js",
     "static/media/solarSystem.png": "/static/media/solarSystem.10266e9693d4eeda70a7.png",
     "static/media/recipes.png": "/static/media/recipes.8ded88715da981ca134d.png",
@@ -15,15 +15,16 @@
     "static/media/front.png": "/static/media/front.9d2afae813313b94c1fd.png",
     "static/media/fundamentos.png": "/static/media/fundamentos.1e118c1f17bb5694ac04.png",
     "static/media/tests.png": "/static/media/tests.179d537b1867dd9189d5.png",
-    "static/media/calculator.png": "/static/media/calculator.3ad0906d763dd02bb657.png",
+    "static/media/calculator.png": "/static/media/calculator.a51b8003e794fd530df4.png",
+    "static/media/qrcode.png": "/static/media/qrcode.6161982877820c935d3f.png",
     "static/media/white-logo.png": "/static/media/white-logo.28155b34883c6cb28a4e.png",
     "index.html": "/index.html",
     "main.0a31c00b.css.map": "/static/css/main.0a31c00b.css.map",
-    "main.6ee7a26e.js.map": "/static/js/main.6ee7a26e.js.map",
+    "main.19b96576.js.map": "/static/js/main.19b96576.js.map",
     "787.232b402d.chunk.js.map": "/static/js/787.232b402d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a31c00b.css",
-    "static/js/main.6ee7a26e.js"
+    "static/js/main.19b96576.js"
   ]
 }
