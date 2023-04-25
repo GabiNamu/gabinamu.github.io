@@ -17,6 +17,10 @@ const Back = () => {
         content="RESTful API and a SQL database to produce content for a blog"
         github="https://github.com/GabiNamu/blog-api"/>
         <BackCard 
+        title="TrybeSmith"
+        content="RESTful API built with node and TypeScript for a medieval item shop"
+        github="https://github.com/GabiNamu/trybesmith"/>
+        <BackCard 
         title="All For One"
         content="put into practice several concepts of SQL, to manipulate, filter and search tables and data using mysql"
         github="https://github.com/GabiNamu/mysql-all-for-one"/>
