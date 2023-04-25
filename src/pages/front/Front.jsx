@@ -10,6 +10,7 @@ import Calculator from '../../images/calculator.png';
 import RecipesAPP from '../../images/recipes.png';
 import FrontCard from '../../components/frontCard/FrontCard';
 import ShoppingCart from '../../images/store.png';
+import QRcode from '../../images/qrcode.png';
 import './front.css';
 
 const Front = () => {
@@ -43,6 +44,11 @@ const Front = () => {
       title="Tryunfo"
       github="https://github.com/GabiNamu/Tryunfo"
       demo="https://gabinamu.github.io/Tryunfo/" />
+       <FrontCard 
+      image={QRcode}
+      title="QRcode Generator"
+      github="https://github.com/GabiNamu/qrcode-generator"
+      demo="https://gabinamu.github.io/qrcode-generator" />
       <FrontCard 
       image={StarWars}
       title="StarWars Planets Search"
